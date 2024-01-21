@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsIntent</string>
+
+    <string name="notification_channel_name">Siren Service</string>
+    <string name="notification_channel_description">Shows that service is running</string>
+
+    <string name="notification_title">2</string>
+    <string name="cancel_download">3</string>
+</resources>

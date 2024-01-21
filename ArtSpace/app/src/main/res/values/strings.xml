@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="artist1">Owen Scott</string>
+    <string name="quote1">Still Life of Blue Rose and Other Flowers</string>
+    <string name="artist2">Artist 2</string>
+    <string name="quote2">Demo 2</string>
+    <string name="artist3">Artist 3</string>
+    <string name="quote3">Demo 3</string>
+    <string name="next_btn">Next</string>
+    <string name="previous_btn">Previous</string>
+</resources>
